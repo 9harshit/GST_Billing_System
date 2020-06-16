@@ -3,6 +3,15 @@
 * More than one company bills can be handled
 * Data stored in database
 
+## Installation
+* Download Visual Studio Installer: https://visualstudio.microsoft.com/downloads/
+* In the installer select: .NET desktop development and Data storage and processing
+
+## How to run the code
+* Open GST BILL folder in Visual Studio
+* In file Form1.cs change the value of path (line 20) according to your system for the file gst.mdf
+* Run the code
+
 ## Code and Resources Used 
 **.NET Framework**: C#, ADO.NET, Microsoft Visual Studio
 
